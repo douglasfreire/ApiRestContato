@@ -6,6 +6,7 @@ Serviço para gerenciar os contatos de usuarios
 - [ ] Autenticação
 - [ ] autorização
 - [ ] Token
+- [ ] Paginação
 - [ ] Criar uma imagem docker
 - [ ] CI Travis
 - [ ] Deploy no Heroku

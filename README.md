@@ -6,6 +6,7 @@ Serviço para gerenciar os contatos de usuarios
 - [ ] Autenticação
 - [ ] autorização
 - [ ] Token
+- [ ] Criar uma imagem docker
 
 ## Melhorias necessárias
 - [ ] Validações

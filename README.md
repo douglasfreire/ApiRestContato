@@ -7,6 +7,7 @@ Serviço para gerenciar os contatos de usuarios
 - [ ] autorização
 - [ ] Token
 - [ ] Criar uma imagem docker
+- [ ] CI Travis
 
 ## Melhorias necessárias
 - [ ] Validações

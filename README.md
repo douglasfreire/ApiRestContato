@@ -3,6 +3,7 @@ Serviço para gerenciar os contatos de usuarios
 
 
 ## Falta implementar
+- [ ] Testes 
 - [ ] Autenticação
 - [ ] autorização
 - [ ] Token
